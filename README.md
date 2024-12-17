@@ -7,7 +7,7 @@
 # Цель задания:
 Изучить одну из наиболее распространённых атак на системы машинного обучения — метод Fast Gradient Sign Method (FGSM). Цель — научиться применять FGSM для генерации противоречивых примеров, способных дезориентировать обученную модель.
 
-# Сылка на выполненую работу в среде google colab: https://colab.research.google.com/drive/17x_kbwXWYnBuGsN0VVmb0DbcT_vK5jmy#scrollTo=FRsUs3YyMMnZ
+**# Сылка на выполненую работу в среде google colab: https://colab.research.google.com/drive/17x_kbwXWYnBuGsN0VVmb0DbcT_vK5jmy#scrollTo=FRsUs3YyMMnZ**
 
 Берем сохраненную модель из прошлой практики, загружаем её вместе с тестовыми данными для последующего анализа.
 ![image](https://github.com/vladimirrublev/AZSII-2/blob/main/screenshot/1.png)
